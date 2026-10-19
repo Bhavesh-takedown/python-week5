@@ -39,7 +39,7 @@ Python is only needed to regenerate data or run the isolation demo.
 
 ```bash
 git clone https://github.com/Bhavesh-takedown/python-week5.git
-cd week5-de-sql-pipeline
+cd python-week5
 
 # Option A: local PostgreSQL (uses PGHOST/PGPORT/PGUSER/PGPASSWORD)
 createdb grokmart
